@@ -1,0 +1,132 @@
+/* kumpulan nama warna */
+/* https://id.wikipedia.org/wiki/Daftar_warna */
+
+/* warna */
+.abu-abu {
+    color: #808080;
+} 		
+.biru{
+    color:#0000FF
+}
+.biru-dongker {
+    color: #000080;
+}
+.biru-laut {
+    color: #00FFFF;
+}
+.coklat {
+    color: #964B00;
+}
+.emas {
+    color:#FFD700;
+}
+.hijau {
+    color: #00FF00;
+}
+.hitam {
+    color: #000000;
+}
+.kuning {
+    color: #FFFF00;
+}
+.magenta {
+    color:#FF00FF;
+}
+.mawar {
+    color: #FF007F;
+}
+.merah {
+    color: #FF0000;
+}
+.merah-marun {
+    color: #800000;
+}
+.merah-jambu {
+    color: #FFC0CB;
+}
+.nila {
+    color: #6F00FF;
+}
+.jingga {
+    color: #FF7F00;
+}
+.perak {
+    color: #C0C0C0;
+}
+.putih {
+    color: #FFFFFF;
+}
+.ungu {
+    color: #BF00FF;
+}
+.violet {
+    color: #8F00FF;
+}
+.zaitun {
+    color: #808000;
+}
+
+/* warna latar */
+.abu-abu {
+    background-color: #808080;
+} 		
+.biru{
+    background-color:#0000FF
+}
+.biru-dongker {
+    background-color: #000080;
+}
+.biru-laut {
+    background-color: #00FFFF;
+}
+.coklat {
+    background-color: #964B00;
+}
+.emas {
+    background-color:#FFD700;
+}
+.hijau {
+    background-color: #00FF00;
+}
+.hitam {
+    background-color: #000000;
+}
+.kuning {
+    background-color: #FFFF00;
+}
+.magenta {
+    background-color:#FF00FF;
+}
+.mawar {
+    background-color: #FF007F;
+}
+.merah {
+    background-color: #FF0000;
+}
+.merah-marun {
+    background-color: #800000;
+}
+.merah-jambu {
+    background-color: #FFC0CB;
+}
+.nila {
+    background-color: #6F00FF;
+}
+.jingga {
+    background-color: #FF7F00;
+}
+.perak {
+    background-color: #C0C0C0;
+}
+.putih {
+    background-color: #FFFFFF;
+}
+.ungu {
+    background-color: #BF00FF;
+}
+.violet {
+    background-color: #8F00FF;
+}
+.zaitun {
+    background-color: #808000;
+}
